@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I am Swati. 
+
+Part of Cisco Advanced Services Team. Mostly busy Designing, Architecting and Implementing Voice and Video Unified Collaboration Networking Infrastructure for Enterprises. 
+
 
 <!--
 **SwatiTiwarib/SwatiTiwarib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
