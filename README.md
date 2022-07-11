@@ -1,6 +1,6 @@
 ### Hi there, I am Swati. 
 
-Part of Cisco Advanced Services Team. Mostly busy Designing, Architecting and Implementing Voice and Video Unified Collaboration Networking Infrastructure for Enterprises. 
+Part of Cisco Professional Services Team. Mostly busy Designing, Architecting and Implementing Voice and Video Unified Collaboration Networking Infrastructure for Enterprises. 
 
 
 <!--
