@@ -5,7 +5,7 @@ Part of Cisco Professional and Advanced Services Team. Mostly busy Designing, Ar
 
 P.S. Building (often breaking) things (mostly networks and Python scripts). 
 
- 📫 Let's Connect : [LinkedIn](https://www.linkedin.com/in/swati-tiwari-70549b143) | [Twitter](https://mobile.twitter.com/Swatiwar)
- ✍️ My Blogs : [DEV.to](https://dev.to/swatitiwarib)
+📫 Let's Connect : [LinkedIn](https://www.linkedin.com/in/swati-tiwari-70549b143) | [Twitter](https://mobile.twitter.com/Swatiwar)
+✍️ My Blogs : [DEV.to](https://dev.to/swatitiwarib)
 
 
