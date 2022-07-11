@@ -1,7 +1,7 @@
 ### Hi there, I am Swati. 
 
 Part of Cisco Professional and Advanced Services Team. Mostly busy Designing, Architecting and Implementing Unified Collaboration Networking Infrastructure for Enterprises. 
-
+2xAWS Certified | AWS☁️ Enthusiast
 
 P.S. Building (often breaking) things (mostly networks and Python scripts). 
 
